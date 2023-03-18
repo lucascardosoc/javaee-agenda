@@ -1,6 +1,6 @@
 # Java WEB - Agenda de contatos
 
-Tecnologias que serão usadas neste projeto:
+Tecnologias que foram usadas neste projeto:
 
 - Servidor Tomcat
 - Java EE (J2EE) - Servlet e JSP
